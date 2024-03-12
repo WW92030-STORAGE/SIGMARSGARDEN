@@ -10,8 +10,8 @@ Basically there are different types of marbles (elements) on the board, denoted 
 - Five pieces of Mercury(☿)
 - Six metals, one of each type - Lead(♄), Tin(♃), Iron(♂), Copper(♀), Silver(☽), Gold(☉). Gold is always placed in the center.
 
-The objective is to clear all marbles/tiles off the board. All tiles must be cleared in paris of compatible tiles, excluding Gold which can be removed by itself. \\
-Tiles can be removed if on the six spaces surrounding them are at least three contiguous empty spaces (including those lying outside the board but are not shown).\\
+The objective is to clear all marbles/tiles off the board. All tiles must be cleared in paris of compatible tiles, excluding Gold which can be removed by itself.<br/>
+Tiles can be removed if on the six spaces surrounding them are at least three contiguous empty spaces (including those lying outside the board but are not shown).<br/>
 
 # COMPATIBILITY
 
